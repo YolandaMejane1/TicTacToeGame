@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TicTacToeGame/static/css/main.dec5d415.css",
+    "main.js": "/TicTacToeGame/static/js/main.aa708b98.js",
+    "static/js/453.e036e8b5.chunk.js": "/TicTacToeGame/static/js/453.e036e8b5.chunk.js",
+    "static/media/neon-gaming-128925.mp3": "/TicTacToeGame/static/media/neon-gaming-128925.a2738a4d9506fdd22ec7.mp3",
+    "static/media/DALL·E 2024-06-10 23.04.57 - A vibrant, friendly-looking fruit with a smiling face. The fruit has big, expressive eyes, a small, cute nose, and a wide, cheerful mouth. The fruit i.webp": "/TicTacToeGame/static/media/DALL·E 2024-06-10 23.04.57 - A vibrant, friendly-looking fruit with a smiling face. The fruit has big, expressive eyes, a small, cute nose, and a wide, cheerful mouth. The fruit i.bc7aea29d3f5a399ef32.webp",
+    "static/media/DALL·E 2024-06-10 23.05.00 - A vibrant, friendly-looking pink fruit with a smiling face. The fruit has big, expressive eyes, a small, cute nose, and a wide, cheerful mouth. The fr.webp": "/TicTacToeGame/static/media/DALL·E 2024-06-10 23.05.00 - A vibrant, friendly-looking pink fruit with a smiling face. The fruit has big, expressive eyes, a small, cute nose, and a wide, cheerful mouth. The fr.7e7ba384be713f62553a.webp",
+    "index.html": "/TicTacToeGame/index.html",
+    "main.dec5d415.css.map": "/TicTacToeGame/static/css/main.dec5d415.css.map",
+    "main.aa708b98.js.map": "/TicTacToeGame/static/js/main.aa708b98.js.map",
+    "453.e036e8b5.chunk.js.map": "/TicTacToeGame/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec5d415.css",
+    "static/js/main.aa708b98.js"
+  ]
+}
